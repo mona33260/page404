@@ -13,13 +13,17 @@
 }
 .header .fa-solid{
     color: #ffaa04;
+    justify-content: flex-end;
 }
 .contact {
     margin: 1rem 0;
+    justify-content: end;
+    
 }
 #erreur svg {
     max-width: 100%;
     background-color: #161D30;
+    justify-content: center;
 
 }
 .back {
@@ -32,12 +36,9 @@
 
 
 }
-.container-fluid{
-    background-color: #161D30;
-    
-}
+
 .container-fluid-footer{
-    background-color: #37393d;
+    color: #fff;
     padding: 250px;
     
     
@@ -49,11 +50,28 @@
 }
 .footer{
     background-image: linear-gradient(rgba(22,29,48,0.9),rgba(22,29,48,0.9)),url(../map.png);
-    height: 100vh;
+    
+    color: #fff;
+    font-size: 16px;
+    padding-top: 10vh;
 }
+
 
     
 
+.bg-color-err {
+   background-color: #161D30;
+}
 
 
+#erreur {
+    text-align: center;
+}
 
+.ccpppppp .fa-solid {
+    color: #fff;
+    font-size: 35px;
+    margin-right: 1em;
+}
+.right{
+    
