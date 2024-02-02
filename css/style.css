@@ -34,9 +34,26 @@
 }
 .container-fluid{
     background-color: #161D30;
+    
 }
 .container-fluid-footer{
-    background-color: #131721;
+    background-color: #37393d;
     padding: 250px;
-}
     
+    
+    
+}
+.col-12{
+    color: #fff;
+    
+}
+.footer{
+    background-image: linear-gradient(rgba(22,29,48,0.9),rgba(22,29,48,0.9)),url(../map.png);
+    height: 100vh;
+}
+
+    
+
+
+
+
